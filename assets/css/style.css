@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+.stan {
+  height: 10px;
+}
+
 a:hover {
   color: #ffd584;
   text-decoration: none;
@@ -978,10 +982,14 @@ section {
   border-radius: 5px;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  height: 215px;
+  width: 150px;
 }
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+  height: 100px;
+  width: 150px;
 }
 .team .member .social {
   position: absolute;
